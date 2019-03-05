@@ -1,0 +1,58 @@
+body {
+	position: relative;
+	/*width: 1766px;
+	height: 1024px;*/
+	background: #2A2A2A;
+	color: #E5E5E5;
+	font-family: Montserrat;
+}
+table {
+	position: absolute;
+	  top: 50%;
+	  left: 50%;
+	  transform: translate(-50%, 50%);
+}
+th{
+	font-weight: normal;
+	font-size: 30px;
+	padding-bottom: 30px; 
+}
+td{
+	padding: 0 15px 0 15px;
+}
+.materie {
+	padding: 0 15px 0 15px;
+	background: #C4C4C4;
+	padding: 10px 10px 10px 20px;
+	width: 130px;
+	color: #2A2A2A;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+
+}
+.materie2 {
+	background: #C4C4C4;
+	padding: 10px 10px 10px 20px;
+	width: 130px;
+	color: #2A2A2A;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+
+}
+
+.sala {
+	background: #C4C4C4;
+	padding: 20px 10px 10px 10px;
+	color: #2A2A2A;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	text-align:center;
+}
+
+.salagoala {
+	background: #C4C4C4;
+	padding: 20px 10px 10px 10px;
+	color: #2A2A2A;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
